@@ -1,3 +1,7 @@
+# Check live
+
+click [here](https://nifty-chandrasekhar-83fd38.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
